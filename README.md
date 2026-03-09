@@ -172,7 +172,7 @@ Possible enhancements:
 
 ## Author
 
-Utkarsh
+Utkarsh Patel
 
 ---
 
